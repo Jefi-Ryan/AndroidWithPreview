@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_nav_menu_fragments"
+        android:title="Fragments"/>
+
+    <item
+        android:id="@+id/mi_nav_menu_notes"
+        android:title="Notes"/>
+
+    <item
+        android:id="@+id/mi_nav_menu_bot_nav"
+        android:title="Bottom Navigation"/>
+
+    <item
+        android:id="@+id/mi_nav_menu_view_pager"
+        android:title="View pager"/>
+
+    <item
+        android:id="@+id/mi_nav_menu_service"
+        android:title="Service"/>
+
+    <item
+        android:id="@+id/mi_nav_menu_Drag"
+        android:title="Drag and Drop"/>
+
+</menu>
